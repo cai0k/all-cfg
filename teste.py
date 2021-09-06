@@ -1,0 +1,6 @@
+dia = input ("Em qua dia você nasceu?")
+mes = input("Em qual mês você nasceu?")
+ano = input("Em qual ano você nasceu?")
+anos = 2021-int(ano)
+print("Você nasceu no dia", dia ,"de", mes ,"de", ano)
+print("Então você tem ", anos, "anos.")
